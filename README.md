@@ -12,4 +12,4 @@ I'm currently exploring:
 - GenAI
 
 
-(System)[https://drive.google.com/drive/folders/1RZ6xqAUg1G2t4477uoyS9t-Aw7eLZ5MM?usp=sharing]
+[System](https://drive.google.com/drive/folders/1RZ6xqAUg1G2t4477uoyS9t-Aw7eLZ5MM?usp=sharing)
